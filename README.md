@@ -1,4 +1,4 @@
-# Hi, I'm Pelagia Kourti 👋
+# Hi, I'm Pelagia Kourti
 
 Mathematician working at the intersection of **geometry** and **quantum computing**.
 MSc in Theoretical Mathematics, Aristotle University of Thessaloniki (2026).
