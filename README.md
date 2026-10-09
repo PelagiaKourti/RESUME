@@ -3,8 +3,9 @@
 Mathematician working at the intersection of **geometry** and **quantum computing**.
 MSc in Theoretical Mathematics, Aristotle University of Thessaloniki (2026).
 
-📄 **[Download my CV](./CV_Pelagia_Kourti.pdf)**  ·  💼 [LinkedIn](https://www.linkedin.com/in/kourti/)  ·  ✉️ pelagiakourti@gmail.com
-
+[![CV](https://img.shields.io/badge/CV-Download-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](./KOURTI_PELAGIA_RESUME-git.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kourti-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kourti/)
+[![Email](https://img.shields.io/badge/Email-pelagiakourti%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:pelagiakourti@gmail.com)
 ---
 
 ## Research interests
@@ -34,8 +35,8 @@ A Python player for the Proximity board game that evaluates the board and choose
 
 ## Background
 
-**Mathematics:** Topology · Differential, Riemannian & Symplectic Geometry · Category Theory · Stochastic Calculus · Optimization
+**Mathematics:** Topology, Differential, Riemannian & Symplectic Geometry, Category Theory, Stochastic Calculus, Optimization
 
-**Tools:** Python · Qiskit · C++ · FORTRAN · Mathematica · GNU Octave · LaTeX
+**Tools:** Python, Qiskit, C++, FORTRAN, Mathematica, GNU Octave, R, LaTeX
 
-**Languages:** Greek (native) · English (fluent) · German (A2)
+**Languages:** Greek (native), English (fluent), German (A2)
